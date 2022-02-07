@@ -1,4 +1,5 @@
 module com.packtpub.mmj.rest {
+
     requires spring.core;
     requires spring.beans;
     requires spring.context;
@@ -10,8 +11,6 @@ module com.packtpub.mmj.rest {
     requires spring.boot.autoconfigure;
 
     requires com.packtpub.mmj.lib;
-
-    exports com.packt.mmj.lib;
 
     exports com.packtpub.mmj.rest;
     exports com.packtpub.mmj.rest.resources;
