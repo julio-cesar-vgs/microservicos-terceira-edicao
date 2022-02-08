@@ -15,7 +15,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="6392_chapter2" options="" />
       <module name="lib" options="-parameters" />
-      <module name="microservicos-terceira-edicao" options="-parameters" />
+      <module name="microservicos-terceira-edicao" options="" />
       <module name="rest" options="-parameters" />
     </option>
   </component>
